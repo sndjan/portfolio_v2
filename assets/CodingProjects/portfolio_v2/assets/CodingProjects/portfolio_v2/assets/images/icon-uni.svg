@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800"
+   height="800"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="university-svgrepo-com.svg"
+   inkscape:export-filename="..\CodingProjects\portfolio_v2\assets\CodingProjects\portfolio_v2\assets\CodingProjects\portfolio_v2\assets\images\icon-uni.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2-7"
+       id="linearGradient3"
+       x1="51.549259"
+       y1="410.06467"
+       x2="460.45062"
+       y2="101.9354"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <linearGradient
+       id="linearGradient2-7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#71a9f7;stop-opacity:1;"
+         offset="0.18237706"
+         id="stop2-6" />
+      <stop
+         style="stop-color:#1f58a8;stop-opacity:1;"
+         offset="0.90778691"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="16"
+       height="16"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.147268;stroke-width:0.02;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="M 0.39760068,6.0599828 7.9794345,1.1928021 15.725793,6.210797 8.0205655,11.17395 Z"
+     id="path2"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 16.027421,6.8558355 c 6.89e-4,-0.4421826 0.0656,-0.9466791 -0.318372,-1.1659726 L 8.3657926,1.0866067 C 7.9703199,0.85587377 7.9611282,0.88329451 7.5656555,1.1140274 L 0.29466153,5.6898629 c -0.32260335,0.2237938 -0.33631372,0.6237212 0,0.8612254 L 2.8590488,8.3017652 v 2.7140278 c 0.00235,0.446618 0.1002189,0.585508 0.4828964,0.815792 l 4.0717652,2.518552 c 0.385745,0.213571 0.744572,0.199861 1.130317,-0.01371 l 4.1814486,-2.354028 c 0.423808,-0.257704 0.5534,-0.41128 0.555749,-0.857898 L 13.306293,8.4560827 15.284704,7.2401371 15.257284,10.412579 16,10.44 Z m -3.300678,4.4837105 -4.7815845,2.63353 -4.5353384,-2.792759 0.027421,-2.4401799 4.1558355,2.6921249 c 0.3965783,0.226607 0.4309795,0.254028 0.8275578,0.02742 L 12.722423,8.7814449 Z M 8.0274207,10.832125 0.72470494,6.1054756 7.9725793,1.5470608 15.462939,6.2188689 Z"
+     id="path1"
+     style="font-variation-settings:normal;opacity:1;mix-blend-mode:normal;vector-effect:none;fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+     inkscape:label="path1" />
+</svg>
