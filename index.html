@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -572,7 +572,7 @@
                 <span>09/2025 — heute</span>
 
                 <p class="timeline-text">
-                  Frontend Entwicklung mit Nextjs, React Typescript
+                  Frontend Entwicklung mit Nextjs, React und Typescript
                 </p>
               </li>
 
@@ -723,16 +723,20 @@
               </li>
 
               <li class="filter-item">
+                <button data-filter-btn>Web development</button>
+              </li>
+
+              <li class="filter-item">
+                <button data-filter-btn>Computer Graphics</button>
+              </li>
+
+              <li class="filter-item">
                 <button data-filter-btn>Game development</button>
               </li>
 
               <!-- <li class="filter-item">
                 <button data-filter-btn>Applications</button>
               </li> -->
-
-              <li class="filter-item">
-                <button data-filter-btn>Web development</button>
-              </li>
             </ul>
 
             <div class="filter-select-box">
@@ -766,6 +770,30 @@
             </div>
 
             <ul class="project-list">
+              <li
+                class="project-item active"
+                data-filter-item
+                data-category="computer graphics"
+              >
+                <a href="https://bottleship.sander-jan.net">
+                  <figure class="project-img">
+                    <div class="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+
+                    <img
+                      src="./assets/images/bottleship.png"
+                      alt="Bottleship"
+                      loading="lazy"
+                    />
+                  </figure>
+
+                  <h3 class="project-title">Ship in a bottle</h3>
+
+                  <p class="project-category">Computer Graphics</p>
+                </a>
+              </li>
+
               <li
                 class="project-item active"
                 data-filter-item
